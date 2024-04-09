@@ -1,0 +1,7 @@
+.venv
+*.session*
+
+*.log
+*.pyc
+__pycache__/
+constants.py
